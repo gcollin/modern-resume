@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Gérard Collin
-title: Future CTO
+title: "Objective: CTO"
 email: ger.coll@appliweb.net
 website: gcollin.github.io/resume-theme
 
@@ -15,20 +15,20 @@ github_username:  gcollin
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: gerard-collin
+linkedin_username: gerard-collin-b94838
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Myself
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Gerard and I'm a enterprise architect manager.
 
-  If you are struggling to define what digital transformation or devops would means for your company, contact me, I may be able to help.
+  If you are struggling to define and implement what digital transformation or devops would means for your company, contact me, I may be able to help!
 
-  My career proves I'm one of the few able to combine <mark>strategic view</mark> with <mark>leadership and committment</mark> to achieve <mark>tangible results</mark> in an <mark>international context</mark>
+  My career proves I'm one of the few able to combine <mark>strategic thinking</mark> with leadership and committment to achieve <mark>tangible results</mark> in an <mark>international context</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -42,11 +42,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+If you read up to down here, that means you're interested to know more about me
+   - I was born in Paris, France in 1970
+   - Now living in [Saint Maur Des Fossés] (https://www.qwant.com/maps/place/admin:osm:relation:50964@Saint-Maur-des-Foss%C3%A9s_94100-94210#map=3.76/48.8193371/2.3391541)
+   - With my [wife](https://www.cerebe.org) and my [son](https://medium.com/@celestincollin) and my [daughter] (https://youtu.be/EX9nFbNaFWY)
+   - Casual music player
 
 # Footer
 footer_show_references: true
