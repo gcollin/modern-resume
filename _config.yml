@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Gérard Collin
 title: "Objective: CTO"
 email: ger.coll@appliweb.net
-website: gcollin.github.io/resume-theme
+website: gcollin.github.io/modern-resume
 
 # Social links
 twitter_username: COLGrar
@@ -45,7 +45,7 @@ more_content: | # this will include new lines to allow paragraphs
   If you read up to down here, that means you're interested to know more about me
    - I was born in Paris, France in 1970
    - Now living in [Saint Maur Des Fossés](https://www.qwant.com/maps/place/admin:osm:relation:50964@Saint-Maur-des-Foss%C3%A9s_94100-94210#map=3.76/48.8193371/2.3391541)
-   - With my [wife](https://www.cerebe.org) and my [son](https://medium.com/@celestincollin) and my [daughter] (https://youtu.be/EX9nFbNaFWY)
+   - With my [wife](https://www.cerebe.org) and my [son](https://medium.com/@celestincollin) and my [daughter](https://youtu.be/EX9nFbNaFWY)
    - Casual music player
 
 # Footer
