@@ -42,9 +42,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-If you read up to down here, that means you're interested to know more about me
+  If you read up to down here, that means you're interested to know more about me
    - I was born in Paris, France in 1970
-   - Now living in [Saint Maur Des Fossés] (https://www.qwant.com/maps/place/admin:osm:relation:50964@Saint-Maur-des-Foss%C3%A9s_94100-94210#map=3.76/48.8193371/2.3391541)
+   - Now living in [Saint Maur Des Fossés](https://www.qwant.com/maps/place/admin:osm:relation:50964@Saint-Maur-des-Foss%C3%A9s_94100-94210#map=3.76/48.8193371/2.3391541)
    - With my [wife](https://www.cerebe.org) and my [son](https://medium.com/@celestincollin) and my [daughter] (https://youtu.be/EX9nFbNaFWY)
    - Casual music player
 
