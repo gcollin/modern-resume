@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Gérard Collin
+title: Futur CTO
+email: ger.coll@appliweb.net
+website: gcollin.github.io/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: COLGrar
+github_username:  gcollin
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: gerard-collin
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Gerard and I'm a enterprise architect and technical manager. If you are struggling to define what digital transformation or devops would means for your company, contact me, I may be able to help.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My career proves I'm one of the few able to combine: <mark>strategic view</mark> with <mark>leadership and committment</mark> to achieve <mark>tangible results</mark> in an <mark>international context</mark>
 
 # Projects Section
 # projects_title: Projects
