@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Gérard Collin
-title: Futur CTO
+title: Future CTO
 email: ger.coll@appliweb.net
 website: gcollin.github.io/resume-theme
 
@@ -21,12 +21,14 @@ linkedin_username: gerard-collin
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+# about_title: About Myself
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Gerard and I'm a enterprise architect and technical manager. If you are struggling to define what digital transformation or devops would means for your company, contact me, I may be able to help.
+  Hi, my name's Gerard and I'm a enterprise architect manager.
 
-  My career proves I'm one of the few able to combine: <mark>strategic view</mark> with <mark>leadership and committment</mark> to achieve <mark>tangible results</mark> in an <mark>international context</mark>
+  If you are struggling to define what digital transformation or devops would means for your company, contact me, I may be able to help.
+
+  My career proves I'm one of the few able to combine <mark>strategic view</mark> with <mark>leadership and committment</mark> to achieve <mark>tangible results</mark> in an <mark>international context</mark>
 
 # Projects Section
 # projects_title: Projects
