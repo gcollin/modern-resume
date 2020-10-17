@@ -7,7 +7,7 @@ name: Gérard Collin
 title: "Objective: CTO"
 email: ger.col@appliweb.net
 website: gcollin.github.io/modern-resume
-
+phone: +33 6 03 84 76 52
 # Social links
 twitter_username: COLGrar
 github_username:  gcollin
@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   My career proves I'm one of the few able to combine <mark>strategic thinking</mark> with leadership and committment to achieve <mark>tangible results</mark> in an <mark>international context</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Skills
 
 # Experience Section
 # experience_title: Experience
