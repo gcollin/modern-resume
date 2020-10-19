@@ -1,16 +1,18 @@
 - layout: top-middle
   name: Strategic thinking
   quote: >
-    Moving an 9B€ insurance company to new technologies and producing benefits at every step.
+    Never make an architecture decision without a vision in mind!
   description: | # this will include new lines to allow paragraphs
-    As an Enterprise Architect Manager, ESB, Persistent Stream,
-    - DCI
-    - ESB
+    As an Technical Enterprise Architect Manager, I'm moving a 9B€ insurance company to new technologies and producing benefits at every step.
+    - Web architecture: In 2019, one year before AGCS decided on creating a new customer portal, I had the application architecture, components, design principles already defined in conjunction with design leads, making me the obvious choice to be the system architect of this 20+ milliions € project.
+    - Integration architecture: When I arrived in 2010, each project in AGCS where defining its own integrations. I defined a solution based on ESB, got it approved by the board, setup and ran an integration team, becoming since then a critical part of the landscape. Now implementing next level with Kafka
+    - Inclusive strategy: I always make sure the technical strategy defined fits with the historical, organizational and Allianz Group Architecture boundaries. Very often, Group Architects made the same choice than me !
 - layout: top-middle
   name: Technical savvy
   quote: >
-    Always ahead of
+    Making the most of the market, understanding what makes sense for the company.
   description: | # this will include new lines to allow paragraphs
+    Amongst the thousands of new IT products, there are only a few that would fit with companies need. Once selected
     - Angular
     - Mongo
     - Kafka
@@ -20,6 +22,7 @@
     My commitment and strong resilience always made me reach a leadership position
     - Web Agency
     - Digital Signature
+    - GSTA, 7 people around the world
     - Head of France
   description: | # this will include new lines to allow paragraphs
     Description
