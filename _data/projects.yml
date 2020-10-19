@@ -3,18 +3,26 @@
   quote: >
     Moving an 9B€ insurance company to new technologies and producing benefits at every step.
   description: | # this will include new lines to allow paragraphs
-    As an Enterprise Architect Manager,
+    As an Enterprise Architect Manager, ESB, Persistent Stream,
+    - DCI
+    - ESB
 - layout: top-middle
   name: Technical savvy
   quote: >
     Always ahead of
   description: | # this will include new lines to allow paragraphs
+    - Angular
+    - Mongo
+    - Kafka
 - layout: top-middle
   name: Leadership
   quote: >
     My commitment and strong resilience always made me reach a leadership position
+    - Web Agency
+    - Digital Signature
+    - Head of France
   description: | # this will include new lines to allow paragraphs
-    ![Career Progression](images/career_progression-450w.png)
+    Description
 - layout: top-middle
   name: International context
   quote: >
