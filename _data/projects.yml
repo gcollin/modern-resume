@@ -4,31 +4,31 @@
     Never make an architecture decision without a vision in mind!
   description: | # this will include new lines to allow paragraphs
     As an Technical Enterprise Architect Manager, I'm moving a 9B€ insurance company to new technologies and producing benefits at every step.
-    - Web architecture: In 2019, one year before AGCS decided on creating a new customer portal, I had the application architecture, components, design principles already defined in conjunction with design leads, making me the obvious choice to be the system architect of this 20+ milliions € project.
-    - Integration architecture: When I arrived in 2010, each project in AGCS where defining its own integrations. I defined a solution based on ESB, got it approved by the board, setup and ran an integration team, becoming since then a critical part of the landscape. Now implementing next level with Kafka
-    - Inclusive strategy: I always make sure the technical strategy defined fits with the historical, organizational and Allianz Group Architecture boundaries. Very often, Group Architects made the same choice than me !
+    - <mark>Web architecture:</mark> In 2019, one year before AGCS decided on creating a new customer portal, I had the application architecture, components, design principles already defined in conjunction with design leads, introduced Web Agencies to Agcs, making me the obvious choice to be the system architect of this 20+ millions € project.
+    - <mark>Integration architecture:</mark> When I arrived in 2010, each project in AGCS where defining its own integrations. I defined a solution based on ESB, got it approved by the board, setup and ran an integration team, becoming since then a critical part of the landscape. Now implementing next level with Kafka
+    - <mark>Inclusive strategy:</mark> I always make sure the technical strategy defined fits with the historical, organizational and Allianz Group Architecture boundaries. Very often, Group Architects made the same choice than me !
 - layout: top-middle
   name: Technical savvy
   quote: >
     Making the most of the market, understanding what makes sense for the company.
   description: | # this will include new lines to allow paragraphs
-    Amongst the thousands of new IT products, there are only a few that would fit with companies need. Once selected
-    - Angular
-    - Mongo
-    - Kafka
+    Amongst the thousands of new IT products, there are only a few that would fit with companies need. Once selected, I have my team develop proof of concepts, sell them internally to projects,
+    - <mark>Angular:</mark> I switched our company from a proprietary front end technology to Angular by demoing and prototyping over a [already made design](https://wrapbootstrap.com/theme/angle-bootstrap-admin-template-WB04HF123). People were astonished !
+    - <mark>Mongo:</mark> Out of the vibrant NoSql market, I selected Mongo as it combines the best of both relational and non-relational. After a study, and with the vendor support, I eventually convinced a project to use it for their 10TB+ datawarehouse, this in turns convinced the infrastructure team to support it. It's now used by multiple projects, and becomes an Allianz standard.
+    - <mark>Kafka:</mark> After ESB becomes as standard integration platform, I've now moved the needle to persistent streaming platform and introduced Kafka as the engine. Our main datawarehouse platform and portal project is adopting it, and I achieve broad agreement for it to become the next AGCS global integration layer.
 - layout: top-middle
   name: Leadership
   quote: >
     My commitment and strong resilience always made me reach a leadership position
-    - Web Agency
-    - Digital Signature
-    - GSTA, 7 people around the world
-    - Head of France
   description: | # this will include new lines to allow paragraphs
-    Description
+    - <mark>Digital Signature:</mark> It all started with a selection of digital signature vendor by Allianz Group. I though this would benefit substantially AGCS but the company is very cautious on this. So I setup a small team of volunteers, and we reached out to data privacy officer, convinced legal team this was valid, conducted trainings. This is now being used worldwide !
+    - <mark>Team setup:</mark>Back in 2013, there were no architecture teams in AGCS. With the newly appointed Head of Global Technical Architecture, I've recruited 7 persons in 4 countries, managed them to become key players in projects worldwide.
+    - <mark>IT Leader:</mark>When the head of IT in France left in 2018, I have been selected to replace him as local manager of 14 people. Now I'm supporting the whole Mediterranean and Africa region.
 - layout: top-middle
   name: International context
   quote: >
     Getting intellectual motivation by working with people around the world.
   description: | # this will include new lines to allow paragraphs
-    e.
+    - Agcs is present in almost [200 countries](https://www.agcs.allianz.com/about-us/about-agcs.html), with customers around the world.
+    - IT is globally organized and present in Germany, UK, France, India, Singapour and USA.
+    - As such, I'm constently involved and included in worlwide projects, writing documents and conducting presentations and meetings in English and working with vendors from any countries.
