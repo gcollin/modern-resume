@@ -4,18 +4,22 @@
   job_title: Technical Enterprise Architect Manager
   dates: November 2010 - Present
   quote: >
-   A great career progression in an always changing environment
+   A great progression of my career in an always changing environment
   description: | # this will include new lines to allow paragraphs
-    Agcs is a relatively new 9B€ company, fully owned subsidiary of Allianz SE, where I've constantly evolved
+    Agcs SE is a relatively new fully owned subsidiary of Allianz SE, handling 9B€ premiums annually, in constant evolution.
+    While supporting multiple projects architectures worldwide, I'm as well involved in introducing new technologies (Angular, Mongo, ESB, Kafka...) or concepts (DevOps, Toolchain, Configuration as Code, Microservice) to them.
+    For other innovations like Digital Signature, I don't hesitate to work with multiple departments (legal, data privacy, access mgt) to ensure smooth integrations with Agcs constraints and regulations.
+
+    As a recognized leader, I'm as well the local manager for IT in France, and team leader of up to 7 architects worldwide.
 - layout: left
   company: Linedata services
   link: linedata.com
   job_title: Software Architect
   dates: October 2007 - July 2009
   quote: >
-    A great career progression in an always changing environment
+    Evolving the technology for one of their main Life Insurance product
   description: | # this will include new lines to allow paragraphs
-    Agcs is a relatively new 9B€ company, fully owned subsidiary of Allianz SE, where I've constantly evolved
+    Due to an agreement with their main customer, Linedata contracted me to introduce Java and Web technologies to their main product.
 - layout: left
   company: Societe Generale Corporate & Investment Bank
   link: wholesale.banking.societegenerale.com/
@@ -24,53 +28,45 @@
   quote: >
     Taking care of an application managing 1B€ / day
   description: | # this will include new lines to allow paragraphs
-    1B€ per day
+    For their basket trading business, I helped the 10+ developers team design, build and support an application accessing 5 market places worldwide in realtime.
 - layout: left
   company: Netonomy
   job_title: Technical lead
   dates: November 2000 - October 2006
   quote: >
-    Startup, yeah !
+    A startup, yeah !
   description: | # this will include new lines to allow paragraphs
-    All roles
+    I joined this Internet startup for the telecom industry in its early days. I then quickly became the IT lead for front end core team, ensuring fast and quality minded development of web screens and graphical configuration tools.
 - layout: left
   company: Caisse Centrale des Banques Populaires
   link: natixis.com
-  job_title: Project Manager
+  job_title: Project Manager/Architect
   dates: Jan 1998 - October 2000
   quote: >
-    Taking care of an application managing 1B€ / day
+    Main designer for web developments
   description: | # this will include new lines to allow paragraphs
-    1B€ per day
+    I was hired to introduce web developments principles to a mostly mainframe IT team. I developed a framework to smoothly integrate mainframes with Websphere Java applications, then move to project manager position for a banking portal development.
 - layout: left
   company: Cerg Finance
   job_title: Software Engineer
   dates: July 1996 - October 1997
   quote: >
-    Moving
+    Introduced to Software Quality Insurance principles.
   description: | # this will include new lines to allow paragraphs
-    1B€ per day
-- layout: left
-  company: Cerg Finance
-  job_title: Software Engineer
-  dates: October 1996 - October 1997
-  quote: >
-    Moving
-  description: | # this will include new lines to allow paragraphs
-    1B€ per day
+    Working on a Web portal for online payments.
 - layout: left
   company: Regma
   job_title: Software Engineer
   dates: May 1994 - July 1996
   quote: >
-    Moving
+    Working in non IT environment
   description: | # this will include new lines to allow paragraphs
-    1B€ per day
+    I helped scale up a single-man developed windows application piloting large plan copiers.
 - layout: left
   company: Vitec
   job_title: Software Engineer
   dates: Jan 1993 - May 1994
   quote: >
-    Moving
+    Developing Windows Application
   description: | # this will include new lines to allow paragraphs
-    1B€ per day
+    Developed a multimedia video editor in Windows from scratch that was bundled with the video hardware Vitec was selling
