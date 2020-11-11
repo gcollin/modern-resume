@@ -3,8 +3,8 @@
   quote: >
     Never make an architecture decision without a vision in mind!
   description: | # this will include new lines to allow paragraphs
-    As an Technical Enterprise Architect Manager, I'm moving a 9B€ insurance company to new technologies while generating benefits at every step.
-    - <mark>Web architecture:</mark> In 2019, one year before AGCS decided to initiate a new customer portal project, I had the architecture, components, design principles already defined in collaboration with design leads, then introduced Web Agencies, making me the obvious choice as system architect of this 20+ millions € project.
+    As a Technical Enterprise Architect Manager, I'm moving a 9B€ insurance company to new technologies while generating tangible benefits at every step.
+    - <mark>Web architecture:</mark> In 2019, one year before my company decided to initiate a new customer portal project, I had the design principles, architecture, components already defined in collaboration with the whole design leads team, then I introduced Web Agencies, making me the obvious choice as system architect of this 20+ millions € project.
     - <mark>Integration architecture:</mark> When I arrived in 2010, each project where defining its own integration mechanism. I defined a solution based on ESB, got it approved by the board, then setup and ran the integration team. This is now the default integration platform, saving the company effort and money. Now implementing next level with Kafka.
     - <mark>Inclusive strategy:</mark> I always make sure the technical strategy defined fits with the historical, organizational and Allianz Group Architecture boundaries. Very often, Group Architects made the same choices !
 - layout: top-middle
