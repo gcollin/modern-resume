@@ -4,32 +4,32 @@
     Never make an architecture decision without a vision in mind!
   description: | # this will include new lines to allow paragraphs
     As a Technical Enterprise Architect Manager, I'm moving a 9B€ insurance company to new technologies while generating tangible benefits at every step.
-    - <mark>Web architecture:</mark> In 2019, one year before my company decided to initiate a new customer portal project, I had the design principles, architecture, components already defined in collaboration with the whole design leads team, then I introduced Web Agencies, making me the obvious choice as system architect of this 20+ millions € project.
-    - <mark>Integration architecture:</mark> When I arrived in 2010, each project where defining its own integration mechanism. I defined a solution based on ESB, got it approved by the board, then setup and ran the integration team. This is now the default integration platform, saving the company effort and money. Now implementing next level with Kafka.
+    - <mark>Web architecture:</mark> In 2019, one year before my company decided to initiate a new customer portal project, I had the design principles, architecture, components already defined in collaboration with the whole design leads team. Then I introduced Web Agencies, making me the obvious choice as enterprise architect of this 20+ millions € project.
+    - <mark>Integration architecture:</mark> Back in 2010, each project where defining its own integration mechanism. I defined a solution based on ESB, got it approved by the board, then set it up and maanged the integration team. This is now the default integration platform, saving the company effort and money. Now implementing next level integration with persistent streams.
     - <mark>Inclusive strategy:</mark> I always make sure the technical strategy defined fits with the historical, organizational and Allianz Group Architecture boundaries. Very often, Group Architects made the same choices !
 - layout: top-middle
   name: Technical intuition
   quote: >
     Making the most out of the market by selecting what makes sense for the company.
   description: | # this will include new lines to allow paragraphs
-    Amongst the thousands of new products and concepts on the market, only a few fits with my company needs. Once selected, me and my team develop proof of concepts, present them to managers, contact vendors / conduct RFPs then convince projects to adopt the solution. Here are some of the successful innovations:
+    Amongst the thousands of products and concepts available on the market, only a few fits with my company needs. Once selected, me and my team develop proof of concepts, manage RFPs with vendors then convince projects to adopt the solution. Here are some of the innovations I successfully brought in:
     - <mark>Angular:</mark> I switched our company from a proprietary front end technology to Angular by demoing and prototyping over an [already made design](https://wrapbootstrap.com/theme/angle-bootstrap-admin-template-WB04HF123). People were astonished !
     - <mark>Mongo:</mark> Out of the vibrant NoSql market, I selected Mongo as it combines the best of both relational and non-relational worlds. After a study with vendor, a project adopted it for their 10TB+ datawarehouse, this in turns forced the infrastructure team to support it. It's now used by multiple projects and becomes an Allianz standard.
-    - <mark>Kafka:</mark> After ESB becomes as standard integration platform, I've now moved the needle to persistent streaming technologies and introduced Kafka. Our main datawarehouse platform and portal projects are adopting it, and I achieved broad agreement for it to become the next AGCS global integration layer.
+    - <mark>Kafka:</mark> After ESB becomes as standard integration platform, I've now moved the needle to persistent streaming technologies and introduced Kafka. Our main datawarehouse platform and portal project are adopting it, and I achieved broad agreement to enable it as the next AGCS global integration layer.
 - layout: top-middle
   name: Leadership
   quote: >
     My commitment and strong resilience entitled me to leadership positions
   description: | # this will include new lines to allow paragraphs
-    - <mark>Digital Signature:</mark> It all started with a selection of vendor with Allianz SE. I though this would benefit substantially AGCS but the company was reluctant to adopt it. So I setup a small team of volunteers, and we reached out to data privacy officer, convinced legal team this was valid and conducted trainings. This is now being used worldwide !
+    - <mark>Digital Signature:</mark> It all started with a selection of vendors with Allianz SE. This would benefit substantially AGCS but the company was reluctant. So I setup a small team of volunteers, we convinced data privacy officer and legal team this was valid and conducted trainings. This is now being used worldwide !
     - <mark>Team setup:</mark> Back in 2013, AGCS didn't have any architecture team. With the newly appointed Head of Global Technical Architecture, I've recruited 7 persons in 4 countries and ensured they became key players in projects worldwide.
-    - <mark>IT Leader:</mark> When the head of IT France left in 2018, I have been selected to replace him as local manager of 14 people. Now I'm supporting the whole Mediterranean and African businesses.
-    - <mark>DevOps Leader:</mark> I was the first to jump in the self-service private Cloud newly provided by Allianz SE and to make it available for AGCS. Now we have an international team of 6 persons supporting all projects in their transformations to DevSecOps and we are moving to AWS and Kubernetes.
+    - <mark>IT Leader:</mark> When the head of IT France left in 2018, I have been selected to replace him as local manager of 15 people. Now we are supporting the whole Mediterranean and African businesses.
+    - <mark>DevOps Leader:</mark> When Allianz SE provided a self-service private Cloud, I was the first jumping in and making it available for my company. Now we have an international team of 6 persons supporting all projects in their transformations to DevSecOps and we are moving to AWS and Kubernetes.
 - layout: top-middle
   name: International context
   quote: >
-    Working with people around the world is an intellectual incentive!
+    Working with people around the world is an intellectual blessing!
   description: | # this will include new lines to allow paragraphs
     - AGCS is present in almost [200 countries](https://www.AGCS.allianz.com/about-us/about-AGCS.html), with customers around the world.
     - IT is globally organized and present in Germany, UK, France, India, Singapour and USA.
-    - As such, I'm constantly involved and included in projects worldwide, writing documents, conducting presentations and meetings in English and working with partners from any countries.
+    - As such, I'm constantly involved and included in projects worldwide, writing documents, conducting presentations and meetings, working with partners from any countries, all in English

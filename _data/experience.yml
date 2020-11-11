@@ -6,11 +6,11 @@
   quote: >
    A great progression of my career in an always changing environment
   description: | # this will include new lines to allow paragraphs
-    Agcs SE is a relatively new fully owned subsidiary of Allianz SE, handling 9B€ premiums annually with a constant evolution.
+    Agcs SE is a relatively new fully owned subsidiary of Allianz SE, handling 9B€ premiums annually with a constant change of strategy.
 
-    While supporting multiple project architectures worldwide, I challenge myself in introducing new technologies (Angular, Mongo, ESB, Kafka...) or concepts (DevOps, Toolchain, Configuration as Code, Microservices...) to the company.
+    While supporting multiple projects architectures worldwide, I challenge myself in introducing new technologies (Angular, Mongo, ESB, Kafka...) or concepts (DevOps, Toolchain, Configuration as Code, Microservices...) to the company.
 
-    For other innovations like Digital Signature, I don't hesitate to work with multiple departments (legal, data privacy, underwriting, market mgt, access mgt) to ensure smooth integrations with company's constraints and regulations.
+    For other innovations like Digital Signature, I don't hesitate to work with multiple departments (legal, data privacy, underwriting, market mgt, access mgt) to ensure smooth integration with company's constraints and regulations.
 
     As a recognized leader, I'm the local manager for IT in France, and team leader of up to 7 architects worldwide.
 - layout: left
@@ -21,7 +21,7 @@
   quote: >
     Evolving the technology for one of their main Life Insurance product
   description: | # this will include new lines to allow paragraphs
-    Due to an agreement with one of their main customer, Linedata contracted me to introduce Java and Web technologies to their main product.
+    As part of an agreement with one of their main customer, Linedata contracted me to introduce Java and Web technologies to their main product.
 - layout: left
   company: Societe Generale Corporate & Investment Bank
   link: wholesale.banking.societegenerale.com/
@@ -30,7 +30,7 @@
   quote: >
     Taking care of an application managing 1B€ per day
   description: | # this will include new lines to allow paragraphs
-    For their basket trading business, I helped the team of 10+ engineers design, build and support an application accessing in realtime 5 market places worldwide.
+    For their basket trading business, I helped the team of 10+ engineers to design, build and support an application accessing 5 market places worldwide in realtime.
 - layout: left
   company: Netonomy
   job_title: Technical lead
@@ -38,16 +38,16 @@
   quote: >
     A startup, yeah !
   description: | # this will include new lines to allow paragraphs
-    I joined this Internet startup for the telecom industry in its early days. I then quickly became the IT lead for front end core team, ensuring fast and quality minded development of web application and graphical configuration tools.
+    I joined this Internet startup for the telecom industry in its early days. I then quickly became the IT lead of the front end core team, ensuring fast and quality minded web applications and graphical tools.
 - layout: left
   company: Caisse Centrale des Banques Populaires
   link: natixis.com
   job_title: Project Manager/Architect
   dates: Jan 1998 - October 2000
   quote: >
-    Main designer for web developments
+    Main designer for web
   description: | # this will include new lines to allow paragraphs
-    I was hired to introduce web developments principles to a mostly mainframe IT team. I developed a framework to smoothly integrate mainframes with Websphere Java applications, then move to project manager position for a banking portal development.
+    I was hired to introduce web developments principles to a mostly mainframe IT team. I developed a framework to smoothly integrate mainframes with Websphere Java applications, then I moved to project manager position for a banking web portal.
 - layout: left
   company: Cerg Finance
   job_title: Software Engineer
